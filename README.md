@@ -28,4 +28,5 @@ The results of these tests, along with autocorrelation information, are included
 
 For any information, please contact info@un-igrac.org
 
-![WMO Image](WMO.jpg)
+<img src="WMO.jpg" alt="WMO Image" width="300">
+
