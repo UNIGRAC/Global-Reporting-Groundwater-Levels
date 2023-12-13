@@ -27,3 +27,5 @@ The results of these tests, along with autocorrelation information, are included
 5) The final part of the code involves exploratory data analysis, where you can input the 'Ogallala_2001_2020.csv' file attached to this repository. This analysis provides users with a visual representation of the results, offering insights and an overview of the data.
 
 For any information, please contact info@un-igrac.org
+
+![WMO]([images/pic1.jpg](https://github.com/UNIGRAC/WMO-Methodology-Code-2023/blob/3707e6bfa2dc7a866b85c9c832a529185ea13d33/WMO.jpg)https://github.com/UNIGRAC/WMO-Methodology-Code-2023/blob/3707e6bfa2dc7a866b85c9c832a529185ea13d33/WMO.jpg)
