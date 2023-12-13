@@ -9,11 +9,17 @@ For that purpose, one Jupyter notebook 'Groundwater level trend analysis - Updat
 3) The MK_tests function performs Mann-Kendall tests on time series data using the pykmannkendall package. It allows the user to choose two different Mann-Kendall tests, specified by the num1 and num2 parameters. The available Mann-Kendall tests are:
 
 1: 'mk.original_test'
+
 2: 'mk.hamed_rao_modification_test'
+
 3: 'mk.yue_wang_modification_test'
+
 4: 'mk.trend_free_pre_whitening_modification_test'
+
 5: 'mk.pre_whitening_modification_test'
+
 6: 'mk.seasonal_test'
+
 The results of these tests, along with autocorrelation information, are included in the final output DataFrame for each well.
 
 4) The MK_plot function performs various Mann-Kendall tests on time series data using the MK_tests function and visualizes the results through a series of plots. The function generates individual plots for each well, displaying the time series data along with linear trend lines based on Mann-Kendall test results. The plots include information such as slope, trends, and p-values for both Mann-Kendall tests.
