@@ -28,5 +28,8 @@ The results of these tests, along with autocorrelation information, are included
 
 For any information, please contact info@un-igrac.org
 
+<div style="text-align:center;">
+    <img src="WMO.jpg" alt="WMO Image" width="300"> <img src="igrac_logo.png" alt="IGRAC" width="500">
+</div>
 <img src="WMO.jpg" alt="WMO Image" width="300"> <img src="Report_2022_front_page.png" alt="Report" width="300"> <div style="text-align:center;"> <img src="igrac_logo.png" alt="IGRAC" width="500"> </div> 
 
