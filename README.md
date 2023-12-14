@@ -1,8 +1,5 @@
 # Global Reporting on Groundwater Levels
-Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the preparation of the section on Groundwater Levels in the [State of Global Water Resources report](https://wmo.int/publication-series/state-of-global-water-resources).
-
-
-This repository contains the following programs (and associated reports):
+Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the preparation of the section on Groundwater Levels in the [State of Global Water Resources report](https://wmo.int/publication-series/state-of-global-water-resources). This repository contains the programs (and associated reports) that have been developed to report on Groundwater Levels:
 1) Global Reporting on Groundwater Levels 2022
 - 
 2) Updated methodology for Data Selection and Groundwater Level Trend Analysis
