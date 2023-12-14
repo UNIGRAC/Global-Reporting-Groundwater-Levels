@@ -1,7 +1,7 @@
 # Global Reporting on Groundwater Levels
 Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the preparation of the section on Groundwater Levels in the [State of Global Water Resources report](https://wmo.int/publication-series/state-of-global-water-resources). This repository contains the programs (and associated reports) that have been developed to report on Groundwater Levels:
 1) Global Reporting on Groundwater Levels, 2022 (2023)
-- Jupyter notebook:[Global Reporting on Groundwater Levels 2022 - Algorithm.ipynb](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/e75117cd11ec13a6b8fb32e8610fd35af9e341bc/Global%20Reporting%20on%20Groundwater%20Levels%202022%20-%20Algorithm.ipynb)
+- Jupyter notebook: [Global Reporting on Groundwater Levels 2022 - Algorithm.ipynb](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/e75117cd11ec13a6b8fb32e8610fd35af9e341bc/Global%20Reporting%20on%20Groundwater%20Levels%202022%20-%20Algorithm.ipynb)
 - Methodology report: 
 
 2) Updated Methodology for Data Selection and Groundwater Level Trend Analysis (2023)
