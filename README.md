@@ -14,8 +14,3 @@ A new data filtering method that utilizes a threshold percentage between specifi
 
 
 For any information, please contact info@un-igrac.org
-
-
-
-
-Clicking on the "Groundwater level trend analysis - Updated methodology for selecting the data.ipynb" link opens a Jupyter notebook focused on the updated methodology for data selection and groundwater level trend analysis. The notebook provides direct access to the code, allowing users to review the specific implementation details efficiently.
