@@ -1,5 +1,18 @@
-# Methodology Report IGRAC
+# Global Reporting on Groundwater Levels
+Here a word of explanation about our work with WMO
+
+This repository contains the following programs (and associated reports):
+1) Global Reporting on Groundwater Levels 2022
+- 
+2) Updated methodology for Data Selection and Groundwater Level Trend Analysis
+
+3) 
+
+
+
 In the 2022 edition of the State of Global Water Resources released by the World Meteorological Organization (WMO), IGRAC was responsible for reporting on the state of groundwater. The 2023 edition of this report incorporates a revised methodology for assessing groundwater status.
+
+
 For that purpose, one Jupyter notebook 'Groundwater level trend analysis - Updated methodology for selecting the data.ipynb' has been used where it focuses on: 
 
 1) A new filtering method of the data has been used: It filters the data based on a given threshold percentage between specified start and end dates. The function then performs a monthly analysis of each well's time series, identifying and handling missing values. Accepted data (above the threshold) is returned as Final_accepted and rejected data (below the threshold) is returned as Not_accepted. 
