@@ -10,6 +10,7 @@ Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the p
 - Demo dataset: [Ogallala_2001_2020.csv](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/e7505cbc2b06735f20f15a3ba332f29aba60c570/Ogallala_2001_2020.csv) 
 - Methodology report: [Updated methodology for Data Selection and Groundwater Level Trend Analysis.docx](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/da67e04f85a09d1af1abbacad4e79a4a3218ae1c/Updated%20methodology%20for%20Data%20Selection%20and%20Groundwater%20Level%20Trend%20Analysis.docx)
 - Video showing the successive steps for selecting the data: [Data_Selection_Steps.mp4](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/main/Data_selection_steps.mp4)
+- Final WMO methodology report 2023: [WMO methodology report 2023.docx](https://github.com/UNIGRAC/Global-Reporting-Groundwater-Levels/blob/147a6e335e19a9d0c7f7d926255a444ed701c763/Final%20WMO%20methodology%20report%202023.docx)
 
 
 
