@@ -16,3 +16,4 @@ Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the p
 
 
 For any information, please contact info@un-igrac.org
+<img src="https://t.bkit.co/w_6758488f145cd.gif" />
