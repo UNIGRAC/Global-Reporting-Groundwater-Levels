@@ -17,6 +17,6 @@ Since 2023, IGRAC assists the World Meteorological Organization (WMO) with the p
 
 For any information, please contact info@un-igrac.org
 
-![Beak Tracker](https://t.bkit.co/w_6758488f145cd.gif)
+Link to repository: [Global Reporting on Groundwater Levels Repository](https://unigrac.github.io/Global-Reporting-Groundwater-Levels/)
 
 
